@@ -2,13 +2,7 @@
      sound.SoundId = "rbxassetid://6073491164" 
      sound.Parent = game.Workspace 
      sound:Play()
-     OrionLib:MakeNotification({
-	Name = "脚本加载失败,",
-	Content = "Notification content... what will it say?",
-	Image = "rbxassetid://7733920519",
-	Time = 5
-})
-  
+
 --[[
 Title = <string> - The title of the notification.
 Content = <string> - The content of the notification.
